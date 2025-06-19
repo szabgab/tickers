@@ -11,7 +11,7 @@ readme = "README.md"
 
 keywords = ["typewriter", "keyboard", "sounds", "fun"]
 
-licence = "GPL-3.0"
+license = "GPL-3.0"
 license-file = "LICENSE"
 
 [dependencies]
